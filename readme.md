@@ -7,7 +7,7 @@ gui.py 负责界面生成，write_lidar_data.py 负责实现snap7开源库方法
 
 #### 1.主界面
 
-![](C:\Users\frank\Pictures\1.PNG)
+![](readme.assets/1.PNG)
 
 IP ADDRESS : 需要设置指定PLC的IP地址
 
@@ -21,18 +21,18 @@ STATUS: 获取监控文件夹所读文件的值
 
 #### 2.专家模式
 
-![](C:\Users\frank\Pictures\2.PNG)
+![](readme.assets/2.PNG)
 
 当点击MANUAL 按钮会提示输入密码，默认密码为：expert
 
-![](C:\Users\frank\Pictures\3.PNG)
+![](readme.assets/3.PNG)
 
 输入正确密码后分别可以设置IP,DB,以及偏移地址。PATH 按钮是设置需要选择的文件夹，默认为主程序所在文件夹里的data文件夹(./data)，LINK 可以手动连接(成功会有LOG 显示)。
 
 ### 3.PLC设置
 
-![](C:\Users\frank\Pictures\4.PNG)
+![](readme.assets/4.PNG)
 
-![](C:\Users\frank\Pictures\5.PNG)
+![](readme.assets/5.PNG)
 
-![](C:\Users\frank\Pictures\6.PNG)
+![](readme.assets/6.PNG)
